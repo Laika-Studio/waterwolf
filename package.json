@@ -1,8 +1,8 @@
 {
-  "name": "min",
-  "productName": "Min",
-  "author": "PalmerAL",
-  "version": "1.35.1",
+  "name": "waterwolf",
+  "productName": "WaterWolf",
+  "author": "Laika Studio",
+  "version": "1.0.0",
   "description": "A fast, minimal browser that protects your privacy",
   "electronVersion": "37.1.0",
   "main": "main.build.js",
@@ -85,6 +85,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/minbrowser/min.git"
+    "url": "https://github.com/Laika-Studio/waterwolf.git"
   }
 }
