@@ -1,12 +1,12 @@
 ---
 name: Bug report
-about: Report unexpected behavior in Min
+about: Report unexpected behavior in WaterWolf
 title: ""
 labels: bug
 assignees: ""
 ---
 
-- **Min Version:**
+- **WaterWolf Version:**
 - **Operating system:**
 <!-- e.g. "Windows 10", "macOS 10.14" -->
 
