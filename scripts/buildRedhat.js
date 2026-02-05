@@ -24,7 +24,7 @@ require('./createPackage.js')('linux', { arch: Arch.x64 }).then(function (path) 
     category: 'Network',
     packageCategory: 'Network',
     mimeTypes: ['x-scheme-handler/http', 'x-scheme-handler/https', 'text/html'],
-    maintainer: 'WaterWolf Developers <280953907a@zoho.com>',
+    maintainer: 'WaterWolf Developers <laikastudio@gulyadog.ru>',
     synopsis: 'WaterWolf is a fast, minimal browser that protects your privacy.',
     description: 'A web browser with smarter search, improved tab management, and built-in ad blocking. Includes full-text history search, instant answers from DuckDuckGo, the ability to split tabs into groups, and more.'
   }

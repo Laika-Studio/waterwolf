@@ -71,7 +71,7 @@ if (settings.get('userSelectedLanguage')) {
   app.commandLine.appendSwitch('lang', settings.get('userSelectedLanguage'))
 }
 
-const browserPage = 'min://app/index.html'
+const browserPage = 'wolf://app/index.html'
 
 var mainMenu = null
 var secondaryMenu = null
@@ -510,7 +510,7 @@ function getWindowWebContents (win) {
 
 /* translate service */
 
-const translatePage = 'min://app/pages/translateService/index.html'
+const translatePage = 'wolf://app/pages/translateService/index.html'
 const translatePreload = __dirname + '/pages/translateService/translateServicePreload.js'
 
 app.on('ready', function() {
