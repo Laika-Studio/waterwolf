@@ -1,6 +1,6 @@
 # WaterWolf
 
-WaterWolf is a fast, minimal browser that protects your privacy using AI features (fork of Min). It includes an interface designed to minimize distractions, and features such as:
+WaterWolf is a fast, minimal browser that protects your privacy using AI features. It includes an interface designed to minimize distractions, and features such as:
 
 - Full-text search for visited pages
 - Ad and tracker blocking

@@ -131,7 +131,7 @@
     "sessionRestoreErrorExplanation": "Ваши сохранённые вкладки не могут быть корректно восстановлены.",
     "sessionRestoreErrorBackupInfo": "Мы сохранили резервную копию ваших данных по этому адресу: %l.", //%l will be replaced with a path to a file
     "sessionRestoreErrorLinkInfo": {
-      "unsafeHTML": "Если эта ошибка продолжает появляться, пожалуйста, сообщите о ней <a href=\"https://github.com/minbrowser/min\" target=\"_blank\">сюда</a>."
+      "unsafeHTML": "Если эта ошибка продолжает появляться, пожалуйста, сообщите о ней <a href=\"https://github.com/Laika-Studio/waterwolf\" target=\"_blank\">сюда</a>."
     },
     /* pages/settings/index.html */
     "settingsPreferencesHeading": "Настройки",
@@ -167,13 +167,13 @@
     "settingsAutoplayToggle": "Включить автоматическое воспроизведение",
     "settingsOpenTabsInForegroundToggle": "Открывать новые вкладки на переднем плане",
     "settingsUserscriptsExplanation": {
-      "unsafeHTML": "Пользовательские скрипты позволяют изменять поведение сайтов - <a href=\"https://github.com/minbrowser/min/wiki/userscripts\">узнать больше</a>."
+      "unsafeHTML": "Пользовательские скрипты позволяют изменять поведение сайтов - <a href=\"https://github.com/Laika-Studio/waterwolf/wiki/userscripts\">узнать больше</a>."
     },
     "settingsUserscriptShowDirectory": "Показать каталог скриптов",
     "settingsUserAgentToggle": "Использовать пользовательский user agent",
     "settingsUpdateNotificationsToggle": "Автоматически проверять наличие обновлений",
     "settingsUsageStatisticsToggle": {
-      "unsafeHTML": "Отправлять статистику использования (<a href=\"https://github.com/minbrowser/min/blob/master/docs/statistics.md\">Подробнее</a>)"
+      "unsafeHTML": "Отправлять статистику использования (<a href=\"https://github.com/Laika-Studio/waterwolf/blob/master/docs/statistics.md\">Подробнее</a>)"
     },
     "settingsStartupOptions": "При запуске WaterWolf: ",
     "settingsStartupCreateTask": "Открыть предыдущие вкладки",

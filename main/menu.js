@@ -81,7 +81,7 @@ function buildAppMenu (options = {}) {
 
   var quitAction = {
     label: l('appMenuQuit').replace('%n', app.name),
-    accelerator: getFormattedKeyMapEntry('quitMin'),
+    accelerator: getFormattedKeyMapEntry('quitWaterWolf'),
     click: function (item, window, event) {
       if (!event.triggeredByAccelerator) {
         app.quit()
@@ -404,25 +404,25 @@ function buildAppMenu (options = {}) {
         {
           label: l('appMenuKeyboardShortcuts'),
           click: function () {
-            openTabInWindow('https://github.com/minbrowser/min/wiki#keyboard-shortcuts')
+            openTabInWindow('https://github.com/Laika-Studio/waterwolf/wiki#keyboard-shortcuts')
           }
         },
         {
           label: l('appMenuReportBug'),
           click: function () {
-            openTabInWindow('https://github.com/minbrowser/min/issues/new')
+            openTabInWindow('https://github.com/Laika-Studio/waterwolf/issues/new')
           }
         },
         {
           label: l('appMenuTakeTour'),
           click: function () {
-            openTabInWindow('https://minbrowser.github.io/min/tour/')
+            openTabInWindow('https://waterwolf.github.io/waterwolf/tour/')
           }
         },
         {
           label: l('appMenuViewGithub'),
           click: function () {
-            openTabInWindow('https://github.com/minbrowser/min')
+            openTabInWindow('https://github.com/Laika-Studio/waterwolf')
           }
         },
         ...(process.platform !== 'darwin' ? [{ type: 'separator' }] : []),
@@ -430,7 +430,7 @@ function buildAppMenu (options = {}) {
           label: l('appMenuAbout').replace('%n', app.name),
           click: function (item, window) {
             var info = [
-              'Min v' + app.getVersion(),
+              'WaterWolf v' + app.getVersion(),
               'Chromium v' + process.versions.chrome
             ]
             electron.dialog.showMessageBox({

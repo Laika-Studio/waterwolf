@@ -131,7 +131,7 @@
     "sessionRestoreErrorExplanation": "Your saved tabs couldn't be restored correctly.",
     "sessionRestoreErrorBackupInfo": "We've saved a backup of your data at this location: %l.", //%l will be replaced with a path to a file
     "sessionRestoreErrorLinkInfo": {
-    "unsafeHTML": "If this error continues to occur, please open a new issue <a href=\"https://github.com/minbrowser/min\" target=\"_blank\">here</a>."
+    "unsafeHTML": "If this error continues to occur, please open a new issue <a href=\"https://github.com/Laika-Studio/waterwolf\" target=\"_blank\">here</a>."
     },
     /* pages/settings/index.html */
     "settingsPreferencesHeading": "Preferences",
@@ -167,13 +167,13 @@
     "settingsAutoplayToggle": "Enable Autoplay",
     "settingsOpenTabsInForegroundToggle": "Open new tabs in the foreground",
     "settingsUserscriptsExplanation": {
-      "unsafeHTML": "User scripts allow you to modify the behavior of websites - <a href=\"https://github.com/minbrowser/min/wiki/userscripts\">learn more</a>."
+      "unsafeHTML": "User scripts allow you to modify the behavior of websites - <a href=\"https://github.com/Laika-Studio/waterwolf/wiki/userscripts\">learn more</a>."
     },
     "settingsUserscriptShowDirectory": "Show script directory",
     "settingsUserAgentToggle": "Use a custom user agent",
     "settingsUpdateNotificationsToggle": "Automatically check for updates",
     "settingsUsageStatisticsToggle": {
-      "unsafeHTML": "Send usage statistics (<a href=\"https://github.com/minbrowser/min/blob/master/docs/statistics.md\">More info</a>)"
+      "unsafeHTML": "Send usage statistics (<a href=\"https://github.com/Laika-Studio/waterwolf/blob/master/docs/statistics.md\">More info</a>)"
     },
     "settingsStartupOptions": "When WaterWolf starts: ",
     "settingsStartupCreateTask": "Re-open previous tabs",
